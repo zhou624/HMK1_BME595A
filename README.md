@@ -35,12 +35,15 @@ Convolution images:
 
 Part B
 bob.jpg is employed to calculate the time taken for performing each forward() pass as a function of i for the sake of time. The results show exponentional relationship
+
 ![](https://github.com/zhou624/HMK1_BME595A/blob/master/time%20taken%20as%20a%20function%20of%20i.png)
 
 Part C
 summer.jpg is employed to calculate the number of operations for performing each forward() pass as a function of kernel_size. The results show linear relationship
+
 ![](https://github.com/zhou624/HMK1_BME595A/blob/master/number%20of%20operations.png)
 
 Part B
 The same program by C shows much faster speed
+
 ![](https://github.com/zhou624/HMK1_BME595A/blob/master/time%20taken%20as%20a%20function%20of%20i%20by%20C.png)
